@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![GitHub Followers](https://img.shields.io/github/followers/TrueNathanD?logo=github&style=for-the-badge)](https://github.com/TrueNathanD/TrueNathanD)
+[![Twitter Followers](https://img.shields.io/twitter/follow/TrueNathanD?label=Followers&logo=twitter&style=for-the-badge)](https://twitter.com/TrueNathanD)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCUZKOXAXf1sqII9P5yojcJA?logo=youtube&style=for-the-badge)](https://www.youtube.com/channel/UCUZKOXAXf1sqII9P5yojcJA)
