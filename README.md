@@ -38,7 +38,7 @@ Here are some ideas to get you started:
       <p>Habanero peppers 🌶️</p>
     </td>
     <td colspan="3" align="center">
-      <h3><b>1</b></h3>
+      <h3><b>2</b></h3>
     </td>
   </tr>
 </table>
@@ -48,12 +48,6 @@ Here are some ideas to get you started:
 | ![Stats GIF](https://media.tenor.com/mZPdzNxQR3kAAAAC/idiocracy-i-dont-know.gif=350x350) | [![Twitter Followers](https://img.shields.io/twitter/follow/TrueNathanD?label=TrueNathanD&style=social)](https://twitter.com/TrueNathanD) <br> [![Reddit Karma](https://img.shields.io/reddit/user-karma/combined/TrueNathan?label=TrueNathan&style=social)](https://www.reddit.com/user/TrueNathan) <br> [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCUZKOXAXf1sqII9P5yojcJA?label=TrueNathanD&style=social)](https://www.youtube.com/channel/UCUZKOXAXf1sqII9P5yojcJA) | ![Repository Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TrueNathanD&theme=blue-green&langs_count=5) |
 | :---: | :---: | :---: |
 | ![XRP Price GIF](https://media3.giphy.com/media/ohdmJuMIE08Ld7Jj0s/giphy.gif?cid=790b7611f711085b985a5c9414ce625fe689c7b371d00d9a&rid=giphy.gif&ct=g) | [![CoinCap XRP Price](https://img.shields.io/coincap/price-usd/xrp?label=Price&logo=xrp&logoColor=green&style=social)](https://coincap.io/assets/xrp) [![CoinCap XRP 24 Hour Change](https://img.shields.io/coincap/change-percent-24hr/xrp?label=24%20Hour%20Change&logo=xrp&logoColor=blue&style=social)](https://coincap.io/assets/xrp) [![CoinCap XRP Market Cap Rank](https://img.shields.io/coincap/rank/xrp?label=Rank&logo=xrp&logoColor=purple&style=social)](https://coincap.io/assets/xrp) | ![Social Media GIF](https://media.tenor.com/wq507F3Pn3YAAAAd/the-it-crowd-it-crowd.gif) |
-
-
-
-
-
-
 
 <!-- Only the real ones see this. -->
 
