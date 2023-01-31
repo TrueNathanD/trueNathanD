@@ -19,7 +19,7 @@ Here are some ideas to get you started:
     <td colspan="3" align="center">About Me</td>
     <td colspan="3" align="center">Aspirations</td>
     <td colspan="3" align="center">Likes</td>
-    <td colspan="3" align="center">Projects</td>
+    <td colspan="3" align="center">Completed Projects</td>
   </tr>
   <tr>
     <td colspan="3" align="center">
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
       <p>Habanero peppers 🌶️</p>
     </td>
     <td colspan="3" align="center">
-      <h3><b>0</b></h3>
+      <h3><b>1</b></h3>
     </td>
   </tr>
 </table>
