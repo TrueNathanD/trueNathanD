@@ -38,7 +38,7 @@ Here are some ideas to get you started:
       <p>Habanero peppers 🌶️</p>
     </td>
     <td colspan="3" align="center">
-      <h3><b>3</b></h3>
+      <h3><b>4</b></h3>
     </td>
   </tr>
 </table>
